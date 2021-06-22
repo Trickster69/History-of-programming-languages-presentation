@@ -1,0 +1,8 @@
+.c-images {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.c-images img {
+    width: 50%;
+}
